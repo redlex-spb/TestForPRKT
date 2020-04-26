@@ -1,0 +1,15 @@
+minimum_number_of_characters: 3
+search_line: true
+case_insensitive_search: false
+first_occurrence: false
+file_max_size: 100kb
+mime-type_constraint: text/plain
+compare_hash_amounts: false
+hash_sum_algorithm: md5
+hash_amount: 99afb87ec754b1d97afd3b16e0108390
+hash_bin: false
+ftp: false #redlex.ddns.net
+ftp_port: 21
+ftp_username: test
+ftp_password:
+ftp_ssl: false
